@@ -20,6 +20,8 @@ Usage:
     Clone this repository to your ROS workspace.
     Build the ROS package using catkin_make.
     Run the GUI script to start and stop webcam streaming and recording.
+    ![Screenshot from 2023-09-25 14-32-52](https://github.com/Sanjay-j-p/GUI_rosbag_webcam_recorder/assets/11870995/8fdac6b4-7af6-45e1-ad50-91bbca1223c6)
+
     Adjust configuration parameters in the scripts as needed.
 
 Contributions:
