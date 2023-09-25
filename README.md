@@ -1,6 +1,6 @@
 # GUI_rosbag_webcam_recorder
 Overview:
-This repository contains code and resources for a ROS (Robot Operating System) project that captures video from a webcam and publishes it as a ROS topic while providing functionality to record the data as a ROS bag file.
+This repository contains code and resources for a ROS (Robot Operating System) noetic project that captures video from a webcam and publishes it as a ROS topic while providing functionality to record the data as a ROS bag file.
 
 
 
@@ -17,7 +17,7 @@ Features:
 
 Dependencies:
 
-    ROS 1 / ROS 2 
+    ROS 1 
     OpenCV
     Python 3
 
