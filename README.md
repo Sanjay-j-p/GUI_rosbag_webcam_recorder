@@ -1,6 +1,7 @@
 # GUI_rosbag_webcam_recorder
 Overview:
 This repository contains code and resources for a ROS (Robot Operating System) project that captures video from a webcam and publishes it as a ROS topic while providing functionality to record the data as a ROS bag file.
+
 ![Screenshot from 2023-09-25 14-32-52](https://github.com/Sanjay-j-p/GUI_rosbag_webcam_recorder/assets/11870995/a14c6229-b369-4a23-846b-b626a147055f)
 
 Features:
@@ -21,7 +22,7 @@ Usage:
     Clone this repository to your ROS workspace.
     Build the ROS package using catkin_make.
     Run the GUI script to start and stop webcam streaming and recording.
-    ![Screenshot from 2023-09-25 14-32-52](https://github.com/Sanjay-j-p/GUI_rosbag_webcam_recorder/assets/11870995/b6342edf-ae73-4f6a-878d-56f5ec776ca4)
+    
 
 
     Adjust configuration parameters in the scripts as needed.
