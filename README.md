@@ -2,7 +2,6 @@
 Overview:
 This repository contains code and resources for a ROS (Robot Operating System) project that captures video from a webcam and publishes it as a ROS topic while providing functionality to record the data as a ROS bag file.
 
-![Screenshot from 2023-09-25 14-32-52](https://github.com/Sanjay-j-p/GUI_rosbag_webcam_recorder/assets/11870995/a14c6229-b369-4a23-846b-b626a147055f)
 
 Features:
 
@@ -30,6 +29,7 @@ Usage:
 Contributions:
 Contributions and improvements to the project are welcome! Feel free to fork this repository, make changes, and submit pull requests.
 
+![Screenshot from 2023-09-25 14-32-52](https://github.com/Sanjay-j-p/GUI_rosbag_webcam_recorder/assets/11870995/a14c6229-b369-4a23-846b-b626a147055f)
 License:
 This project is licensed under the MIT License.
 
