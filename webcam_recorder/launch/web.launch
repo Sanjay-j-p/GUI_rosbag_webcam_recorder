@@ -1,0 +1,4 @@
+<launch>
+  <node name="webcam_publisher" pkg="webcam_recorder" type="webcam_streaming.py" output="screen" />
+</launch>
+
