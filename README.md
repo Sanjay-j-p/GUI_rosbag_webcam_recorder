@@ -11,9 +11,9 @@ Features:
 
 Dependencies:
 
-    ROS (Robot Operating System)
+    ROS 1 / ROS 2 
     OpenCV
-    cv_camera ROS package for webcam integration
+    Python 3
 
 Usage:
 
