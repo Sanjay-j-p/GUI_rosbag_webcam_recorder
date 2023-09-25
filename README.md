@@ -29,7 +29,6 @@ License:
 This project is licensed under the MIT License.
 
 Author:
-[Your Name]
+Sanjay
 
-Contact:
-For inquiries or assistance, please contact [Your Email Address].
+
