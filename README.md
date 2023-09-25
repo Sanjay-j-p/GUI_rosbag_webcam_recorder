@@ -3,9 +3,7 @@
 This repository contains code and resources for a ROS (Robot Operating System) noetic project that captures video from a webcam and publishes it as a ROS topic while providing functionality to record the data as a ROS bag file , play back the saved file or live video stream.
 
 
-
-![Screenshot from 2023-09-25 14-32-52](https://github.com/Sanjay-j-p/GUI_rosbag_webcam_recorder/assets/11870995/a14c6229-b369-4a23-846b-b626a147055f)
-
+![Screenshot from 2023-09-25 14-32-52](https://github.com/Sanjay-j-p/GUI_rosbag_webcam_recorder/assets/11870995/a427334f-93dd-4cfc-b4a4-c0f19436c490)
 
 
 ### Features:
