@@ -31,10 +31,12 @@ This repository contains code and resources for a ROS (Robot Operating System) n
 
     catkin_make or catkin build
     
-3.Run the GUI script to see the above metioned features.
+3.Run Roscore
 
     roscore
-    
+
+3.Run the GUI script to see the above metioned features    
+
     rosrun webcam_recorder gui.py 
 
 ### Contributions:
